@@ -24,3 +24,5 @@ git pull: baixa as alterações do repositório remoto
 git config --global user.name "nome do usuário"
 
 git config --global user.email e-mail do usuário
+
+Lembrei do comando: git status
